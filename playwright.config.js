@@ -28,8 +28,8 @@ export default defineConfig({
     ["html"],
     ["dot"],
     ["line"],
-    ['json', { outputFile: 'test/Reports.json' }],
-    ['junit', { outputFile: 'test/Reports.xml' } ]
+    ['json', { outputFile: 'tests/Reports/Reports.json' }],
+    ['junit', { outputFile: 'tests/Reports/Reports.xml' } ]
   ],
 
    //reporter= ['allure-playwright',{outputFolder:'test/my-allure-results'}]

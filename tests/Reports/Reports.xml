@@ -1,0 +1,12 @@
+<testsuites id="" name="" tests="1" failures="0" skipped="0" errors="0" time="7.9859849999999994">
+<testsuite name="Swaglab_POM.spec.js" timestamp="2025-03-11T04:52:48.357Z" hostname="chromium" tests="1" failures="0" skipped="0" time="6.371" errors="0">
+<testcase name="SwagLabs" classname="Swaglab_POM.spec.js" time="6.371">
+<system-out>
+<![CDATA[My order id is SauceCard #31337
+
+[[ATTACHMENT|..\..\test-results\Swaglab_POM-SwagLabs-chromium\test-finished-1.png]]
+]]>
+</system-out>
+</testcase>
+</testsuite>
+</testsuites>
